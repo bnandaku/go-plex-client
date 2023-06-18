@@ -1,6 +1,5 @@
-module github.com/jrudio/go-plex-client
-
-go 1.12
+module github.com/bnandaku/go-plex-client
+go 1.19
 
 require (
 	github.com/dgraph-io/badger/v3 v3.2103.2
