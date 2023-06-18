@@ -33,7 +33,7 @@ type Webhook struct {
 		Key                  string `json:"key"`
 		ParentRatingKey      string `json:"parentRatingKey"`
 		GrandparentRatingKey string `json:"grandparentRatingKey"`
-		GUID                 string `json:"guid"`
+// 		GUID                 string `json:"guid"`
 		LibrarySectionID     int    `json:"librarySectionID"`
 		MediaType            string `json:"type"`
 		Title                string `json:"title"`
